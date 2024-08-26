@@ -5,25 +5,25 @@ The repository contains solutions to the following problems
 or objects and also handles all edge cases of diff data
 types.
 
-3. Implement set of functions which can handle 'n async
+2. Implement set of functions which can handle 'n async
 tasks in series, parallel and race.
 
-5. Implement memoizing or caching identical API request
+3. Implement memoizing or caching identical API request
 calls based on route paths.
 
-7. Implement a custom class of Event Emitter model
+4. Implement a custom class of Event Emitter model
 which can be subscribed to listen and emit events.
 
-9. Implement your custom native javascript promises from
+5. Implement your custom native javascript promises from
 scratch, which emits similar behavior.
 
-11. Implement a currying function accepts 'n number of
+6. Implement a currying function accepts 'n number of
 arguments which also supports placeholder arguments.
 
-13. Implement the polyfill version of call, apply and bind
+7. Implement the polyfill version of call, apply and bind
 functions which handles "this" context.
 
-15. Implement a polyfill of the Object assign method which
+8. Implement a polyfill of the Object assign method which
 copies all enumerable properties from source to target.
 
 ============================================================================================
